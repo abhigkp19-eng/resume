@@ -2,7 +2,7 @@
 
 ## Resume
 
-📄 [Download My Resume](./Abhishek_Srivastava_AI_Lead.pdf)
+📄 [Download My Resume](./Abhishek_Srivastava_AI_Lead.docx)
 
 ---
 
